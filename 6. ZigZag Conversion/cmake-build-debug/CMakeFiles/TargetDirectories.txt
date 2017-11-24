@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/myds/leetcode/6. ZigZag Conversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/myds/leetcode/6. ZigZag Conversion/cmake-build-debug/CMakeFiles/6__ZigZag_Conversion.dir
+C:/Users/Administrator/Desktop/myds/leetcode/6. ZigZag Conversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
