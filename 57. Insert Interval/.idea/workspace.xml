@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="56__Merge_Intervals" targetName="56__Merge_Intervals" />
+      <config projectName="57__Insert_Interval" targetName="57__Insert_Interval" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ab02cbc-debc-44a5-a02e-539457221a0b" name="Default" comment="" />
+    <list default="true" id="39a3f3e9-cadc-4b2a-a0f8-2b75b9d20520" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +36,9 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="248">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,9 +59,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="738" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -98,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.56__Merge_Intervals">
+  <component name="RunManager" selected="Application.57__Insert_Interval">
     <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
       <method />
     </configuration>
@@ -153,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -175,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -216,7 +215,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -235,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
@@ -251,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -266,7 +265,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="56. Merge Intervals" />
+      <module name="57. Insert Interval" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
@@ -277,13 +276,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="56__Merge_Intervals" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="56__Merge_Intervals" TARGET_NAME="56__Merge_Intervals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="56__Merge_Intervals" RUN_TARGET_NAME="56__Merge_Intervals">
+    <configuration default="false" name="57__Insert_Interval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="57__Insert_Interval" TARGET_NAME="57__Insert_Interval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="57__Insert_Interval" RUN_TARGET_NAME="57__Insert_Interval">
       <envs />
       <method />
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.56__Merge_Intervals" />
+      <item index="1" class="java.lang.String" itemvalue="Application.57__Insert_Interval" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -291,20 +290,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ab02cbc-debc-44a5-a02e-539457221a0b" name="Default" comment="" />
-      <created>1511610484765</created>
+      <changelist id="39a3f3e9-cadc-4b2a-a0f8-2b75b9d20520" name="Default" comment="" />
+      <created>1511612170426</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511610484765</updated>
-      <workItem from="1511610487020" duration="2122000" />
+      <updated>1511612170426</updated>
+      <workItem from="1511612172623" duration="570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2122000" />
+    <option name="totallyTimeSpent" value="570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="0" width="1382" height="738" extended-state="1" />
+    <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -338,24 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/bits/stl_algo.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="1960" column="14" lean-forward="false" selection-start-line="1960" selection-start-column="14" selection-end-line="1960" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/bits/algorithmfwd.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="811" column="6" lean-forward="true" selection-start-line="811" selection-start-column="6" selection-end-line="811" selection-end-column="6" />
-          <folding>
-            <element signature="e#20694#20731#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -366,11 +347,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
